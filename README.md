@@ -13,3 +13,6 @@ https://medium.com/@CalebMBowyer/animations-in-python-3f32128e1d8c
 
 Real time Data: Prisma Library:
 https://pub.towardsai.net/build-real-time-data-applications-quickly-using-streamlit-and-prisma-ef6e6af81e30
+
+Sinthetic Data
+https://link.medium.com/fEkUbCgWGwb
