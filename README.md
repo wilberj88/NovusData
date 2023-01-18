@@ -7,3 +7,6 @@ https://medium.com/codex/create-a-data-profiling-app-using-pandas-profiling-and-
 
 Data Workflow: Data Pipeline Management - ETL Workflows - Machine Learning Workflows
 https://moez-62905.medium.com/introduction-to-apache-airflow-9b194e050507
+
+Data Animation
+https://medium.com/@CalebMBowyer/animations-in-python-3f32128e1d8c
