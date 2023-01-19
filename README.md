@@ -16,3 +16,6 @@ https://pub.towardsai.net/build-real-time-data-applications-quickly-using-stream
 
 Sinthetic Data
 https://link.medium.com/fEkUbCgWGwb
+
+Visualizations
+https://medium.com/geekculture/top-10-data-visualizations-of-2022-worth-looking-at-eec641e3fe84
