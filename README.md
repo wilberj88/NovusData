@@ -20,3 +20,4 @@ https://link.medium.com/fEkUbCgWGwb
 
 Visualizations
 https://medium.com/geekculture/top-10-data-visualizations-of-2022-worth-looking-at-eec641e3fe84
+Sankey Diagram: https://medium.com/@semui/how-to-plot-basic-sankey-diagram-with-pythons-plotly-8915178316c6
