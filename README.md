@@ -24,3 +24,6 @@ Sankey Diagram: https://medium.com/@semui/how-to-plot-basic-sankey-diagram-with-
 
 Extract Data from PDF
 https://carolinamendozab.medium.com/nice-and-easy-way-to-extract-data-from-pdf-files-with-python-d71b58f43d04
+
+Exploratory data Analysis:
+https://medium.com/@avra42/chatgpt-build-this-data-science-web-app-using-streamlit-python-25acca3cecd4
