@@ -21,6 +21,7 @@ https://link.medium.com/fEkUbCgWGwb
 Visualizations
 https://medium.com/geekculture/top-10-data-visualizations-of-2022-worth-looking-at-eec641e3fe84
 Sankey Diagram: https://medium.com/@semui/how-to-plot-basic-sankey-diagram-with-pythons-plotly-8915178316c6
+DataWrapper Library: https://medium.com/mlearning-ai/datawrapper-the-future-of-data-visualizations-4fbe65f7a6b
 
 Extract Data from PDF
 https://carolinamendozab.medium.com/nice-and-easy-way-to-extract-data-from-pdf-files-with-python-d71b58f43d04
