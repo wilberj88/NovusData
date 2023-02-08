@@ -28,3 +28,6 @@ https://carolinamendozab.medium.com/nice-and-easy-way-to-extract-data-from-pdf-f
 
 Exploratory data Analysis:
 https://medium.com/@avra42/chatgpt-build-this-data-science-web-app-using-streamlit-python-25acca3cecd4
+
+Alternatives Data Libraries:
+https://towardsdatascience.com/5-less-known-python-libraries-that-can-help-in-your-next-data-science-project-5970a81b32de
