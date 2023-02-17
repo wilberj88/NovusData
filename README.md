@@ -24,7 +24,7 @@ Sankey Diagram: https://medium.com/@semui/how-to-plot-basic-sankey-diagram-with-
 DataWrapper Library: https://medium.com/mlearning-ai/datawrapper-the-future-of-data-visualizations-4fbe65f7a6b
 Alternatives Pie Charts:
 https://medium.com/geekculture/i-found-a-great-machine-learning-book-deed11db2688
-
+Plotly Express: https://medium.com/@malvik01/create-animated-plots-in-python-with-plotly-express-a12939f190b8
 
 
 Extract Data from PDF
