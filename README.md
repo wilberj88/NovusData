@@ -11,6 +11,9 @@ https://moez-62905.medium.com/introduction-to-apache-airflow-9b194e050507
 Data Animation
 https://medium.com/@CalebMBowyer/animations-in-python-3f32128e1d8c
 
+Data Formats:
+https://towardsdatascience.com/top-5-ridiculously-better-csv-alternatives-595f70a9c936
+
 Real time Data: 
 Scraping: https://medium.com/codex/realtime-data-scraping-with-python-517bf5a5eb84
 Prisma Library: https://pub.towardsai.net/build-real-time-data-applications-quickly-using-streamlit-and-prisma-ef6e6af81e30
