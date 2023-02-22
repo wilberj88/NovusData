@@ -22,6 +22,7 @@ Sinthetic Data
 https://link.medium.com/fEkUbCgWGwb
 
 Visualizations
+https://echarts.streamlit.app/
 https://medium.com/geekculture/top-10-data-visualizations-of-2022-worth-looking-at-eec641e3fe84
 Sankey Diagram: https://medium.com/@semui/how-to-plot-basic-sankey-diagram-with-pythons-plotly-8915178316c6
 DataWrapper Library: https://medium.com/mlearning-ai/datawrapper-the-future-of-data-visualizations-4fbe65f7a6b
