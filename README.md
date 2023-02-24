@@ -30,6 +30,7 @@ Alternatives Pie Charts:
 https://medium.com/geekculture/i-found-a-great-machine-learning-book-deed11db2688
 Plotly Express: https://medium.com/@malvik01/create-animated-plots-in-python-with-plotly-express-a12939f190b8
 Sunburst chart: https://medium.com/plotly/plotly-dash-500-d78f27e91530
+RaceChart: https://medium.com/analytics-vidhya/how-to-make-a-bar-chart-race-with-python-in-2-minutes-c9ee617c8d75
 
 
 Extract Data from PDF
