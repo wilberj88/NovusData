@@ -15,12 +15,25 @@ https://medium.com/@CalebMBowyer/animations-in-python-3f32128e1d8c
 Data Formats:
 https://towardsdatascience.com/top-5-ridiculously-better-csv-alternatives-595f70a9c936
 
+Public DataSets:
+1. US Census Data
+2. Enron Email Dataset
+3. Global Open Data Index
+4. Air Quality Monitoring Data
+5. New York City Taxi Trip Data
+6. IMF Data
+7. World Bank Open Data
+8. Google Books Ngrams Dataset
+9. Amazon Reviews Dataset
+10. UCI Machine Learning Repository
+
 Real time Data: 
 Scraping: https://medium.com/codex/realtime-data-scraping-with-python-517bf5a5eb84
 Prisma Library: https://pub.towardsai.net/build-real-time-data-applications-quickly-using-streamlit-and-prisma-ef6e6af81e30
 
 Sinthetic Data
 https://link.medium.com/fEkUbCgWGwb
+https://medium.datadriveninvestor.com/mastering-chatgpt-in-python-a53814e834b0
 
 Visualizations
 https://echarts.streamlit.app/
