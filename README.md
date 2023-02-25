@@ -16,16 +16,16 @@ Data Formats:
 https://towardsdatascience.com/top-5-ridiculously-better-csv-alternatives-595f70a9c936
 
 Public DataSets:
-1. US Census Data
-2. Enron Email Dataset
-3. Global Open Data Index
-4. Air Quality Monitoring Data
-5. New York City Taxi Trip Data
-6. IMF Data
-7. World Bank Open Data
-8. Google Books Ngrams Dataset
-9. Amazon Reviews Dataset
-10. UCI Machine Learning Repository
+1. OpenStreetMap: https://www.openstreetmap.org/
+2. US Census Data: https://www.census.gov/data.html
+3. Google Books Ngrams: https://aws.amazon.com/datasets/google-books-ngrams/
+4. Wikipedia: https://dumps.wikimedia.org/enwiki/
+5. US Government Spending Data: https://www.usaspending.gov/
+6. World Bank Open Data: https://data.worldbank.org/
+7. Common Crawl: http://commoncrawl.org/
+8. Open Images: https://storage.googleapis.com/openimages/web/index.html
+9. OpenFlights: https://openflights.org/data.html
+10. GDELT: http://data.gdeltproject.org/
 
 Real time Data: 
 Scraping: https://medium.com/codex/realtime-data-scraping-with-python-517bf5a5eb84
