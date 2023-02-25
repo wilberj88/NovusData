@@ -16,16 +16,17 @@ Data Formats:
 https://towardsdatascience.com/top-5-ridiculously-better-csv-alternatives-595f70a9c936
 
 Public DataSets:
-1. OpenStreetMap: https://www.openstreetmap.org/
-2. US Census Data: https://www.census.gov/data.html
-3. Google Books Ngrams: https://aws.amazon.com/datasets/google-books-ngrams/
-4. Wikipedia: https://dumps.wikimedia.org/enwiki/
-5. US Government Spending Data: https://www.usaspending.gov/
-6. World Bank Open Data: https://data.worldbank.org/
-7. Common Crawl: http://commoncrawl.org/
-8. Open Images: https://storage.googleapis.com/openimages/web/index.html
-9. OpenFlights: https://openflights.org/data.html
-10. GDELT: http://data.gdeltproject.org/
+1. OpenStreetMap: OpenStreetMap is a free, editable map of the world, created and maintained by volunteers and available for use under an open license. It contains millions of data points, including roads, buildings, and points of interest. Source: https://www.openstreetmap.org/
+2. Google Books Ngrams: Google Books Ngrams is a dataset of over 5 million books from Google Books, spanning from 1500 to 2008. It contains word counts for each year, allowing researchers to track the usage of words over time. Source: https://aws.amazon.com/datasets/google-books-ngrams/
+3. Wikipedia: Wikipedia is a free, open-source encyclopedia with millions of articles in hundreds of languages. It is available for use under the Creative Commons Attribution-ShareAlike license. Source: https://www.wikipedia.org/
+4. Common Crawl: Common Crawl is a large-scale web crawl that collects data from over 5 billion webpages. It is available for use under the Apache 2.0 license. Source: https://commoncrawl.org/
+5. Open Images Dataset: The Open Images Dataset is a collection of 9 million images annotated with labels spanning over 6000 categories. It is available for use under the Apache 2.0 license. Source: https://storage.googleapis.com/openimages/web/index.html
+8. US Census Data: https://www.census.gov/data.html
+11. US Government Spending Data: https://www.usaspending.gov/
+12. World Bank Open Data: https://data.worldbank.org/
+13. Common Crawl: http://commoncrawl.org/
+15. OpenFlights: https://openflights.org/data.html
+16. GDELT: http://data.gdeltproject.org/
 
 Real time Data: 
 Scraping: https://medium.com/codex/realtime-data-scraping-with-python-517bf5a5eb84
