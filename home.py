@@ -8,33 +8,40 @@ import pydeck as pdk
 st.set_page_config(layout="wide", page_title="Novus Data", page_icon="⚛️")
 
 st.title('Novus Data ⚛️')
-st.header("Tecnología para Gobernar tus Datos al instante ⚡")
+st.header("Tecnología Interoperable para Gobernar tus Datos al instante ⚡")
 
 st.write("Configura y disfruta ahora ⏱️")
 
 st.markdown(
   """
-  En esta web encontrarás:
-  - 🔎 _    Titularidad
-  - 🛒 _    Ciclo de Vida
-  - ✍️ _     Arquitectura
-  - ✍️ _     Modelación
-  - ✍️ _     Integración
-  - ✍️ _     Operación
-  - ✍️ _     Seguridad
-  - ✍️ _     Privacidad
-  - ✍️ _     Conciliación
-  - ✍️ _     Referentes
-  - ✍️ _     Lago
-  - ✍️ _     Elementos Críticos
-  - ✍️ _     Metadata
-  - ✍️ _     Calidad
-  - ✍️ _     Integración
-  - ✍️ _     Contenido
+  - 🗣️ _    Titularidad
+  - ♻️ _    Ciclo de Vida
+  - 🏗️ _     Arquitectura
+  - 🧮 _     Modelación
+  - 🌉 _     Integración
+  - ⏲️ _     Operación
+  - 🛂 _     Seguridad
+  - 🚫 _     Privacidad
+  - 🤝 _     Conciliación
+  - 💡 _     Referentes
+  - 🌊 _     Lago
+  - ⚠️ _     Elementos Críticos
+  - ℹ️ _     Metadata
+  - ✅ _     Calidad
+  - 🔄 _     Integración
+  - ✝️ _     Políticas
+  - ▶️ _     Estándares
+  - 🔁 _     Procesos
   
-  Todo lo anterior basado en:
-  - Tecnología para la interoperabilidad
-  
-  EMPIEZA TU 🔎 DIAGNÓSTICO AHORA 🕰
+  DISFRUTA TU ECOSISTEMA INTEROPERABLE AHORA 🕰
   """
 )
+
+
+if st.button('Activa tu plan anual de Gobernanza de Datos'):    
+        st.title('Tenemos un contrato 📜  personalizado 🎯 a tu diagnóstico 🔎 ')
+        st.text_input("Incorpore su firma si está de acuerdo con las condiciones")
+
+        st.text_input("Incorpore su correo electrónico para envío de factura")
+        st.write('Gracias por confiar en los servicios de Novus Datos ⚛️')
+        
