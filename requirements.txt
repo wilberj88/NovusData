@@ -1,0 +1,9 @@
+streamlit
+streamlit_echarts
+numpy
+pandas
+plotly.express
+altair
+#qgis.core
+plotly.express
+folium
