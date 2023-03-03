@@ -37,6 +37,8 @@ https://link.medium.com/fEkUbCgWGwb
 https://medium.datadriveninvestor.com/mastering-chatgpt-in-python-a53814e834b0
 
 Visualizations
+With ChatGPT3:
+https://medium.datadriveninvestor.com/chatgpt-helps-you-to-create-graphs-with-python-in-5-steps-55418100d5c1
 https://echarts.streamlit.app/
 https://medium.com/geekculture/top-10-data-visualizations-of-2022-worth-looking-at-eec641e3fe84
 Sankey Diagram: https://medium.com/@semui/how-to-plot-basic-sankey-diagram-with-pythons-plotly-8915178316c6
