@@ -15,6 +15,9 @@ https://medium.com/@CalebMBowyer/animations-in-python-3f32128e1d8c
 Data Formats:
 https://towardsdatascience.com/top-5-ridiculously-better-csv-alternatives-595f70a9c936
 
+Optimizing memory:
+https://medium.com/aatomz-research/how-did-i-convert-the-33-gb-dataset-into-a-3-gb-file-using-pandas-b21d8da205c0
+
 Public DataSets:
 1. OpenStreetMap: OpenStreetMap is a free, editable map of the world, created and maintained by volunteers and available for use under an open license. It contains millions of data points, including roads, buildings, and points of interest. Source: https://www.openstreetmap.org/
 2. Google Books Ngrams: Google Books Ngrams is a dataset of over 5 million books from Google Books, spanning from 1500 to 2008. It contains word counts for each year, allowing researchers to track the usage of words over time. Source: https://aws.amazon.com/datasets/google-books-ngrams/
