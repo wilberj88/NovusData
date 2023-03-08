@@ -66,3 +66,13 @@ https://medium.com/@avra42/chatgpt-build-this-data-science-web-app-using-streaml
 
 Alternatives Data Libraries:
 https://towardsdatascience.com/5-less-known-python-libraries-that-can-help-in-your-next-data-science-project-5970a81b32de
+
+ChatGPT: https://medium.com/@joetrankang/how-i-used-chatgpt-as-a-data-scientist-92edb579ca83
+as an assistant to help me at work as a data scientist.
+Generate hypothesis
+Build a data science portfolio
+SQL coaching
+Convert Python to other languages and vice versa
+Create visualisations in seconds
+Optimise codes for speed and memory
+Communicate with non-technical folks
