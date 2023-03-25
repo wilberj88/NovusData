@@ -79,3 +79,7 @@ Communicate with non-technical folks
 
 SECURITY:
 AWS: https://open.spotify.com/episode/70cmr9NTx045AQuZieT6ud?si=u3Kh3ETjQj-KiaZHlvcBxA
+
+BASES DE DATOS ESPECIALES:
+AWS: 
+https://open.spotify.com/episode/5ZtRYpu5FAx2wRiq6BxdOd?si=ezNp9eBZSfGMUA5SdN5mhQ&context=spotify%3Ashow%3A137kWOBdiS8lA97kzYJbKH
