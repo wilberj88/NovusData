@@ -76,3 +76,6 @@ Convert Python to other languages and vice versa
 Create visualisations in seconds
 Optimise codes for speed and memory
 Communicate with non-technical folks
+
+SECURITY:
+AWS: https://open.spotify.com/episode/70cmr9NTx045AQuZieT6ud?si=u3Kh3ETjQj-KiaZHlvcBxA
