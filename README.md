@@ -12,6 +12,8 @@ https://levelup.gitconnected.com/these-7-low-code-python-libraries-keep-your-foc
 Streamlit Visualizaciones:
 Charts - eChart: 1) Watterfall, 2) Dougnut chart, 3) Rose Diagram, 4) Radar, 5) Heatmap, 6) Tree left to right, 7) Treemap, 8)Parallel Aqui, 9) Sankey, 10) Dataset, 11) Legend Event, 12) Sunburst
 
+JavaScript Visualizaciones:
+www.amcharts.com
 
 Data Animation
 https://medium.com/@CalebMBowyer/animations-in-python-3f32128e1d8c
