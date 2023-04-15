@@ -18,7 +18,6 @@ st.markdown(
   - ♻️ _    Ciclo de Vida
   - 🏗️ _     Arquitectura
   - 🧮 _     Modelación
-  - 🌉 _     Integración
   - ⏲️ _     Operación
   - 🛂 _     Seguridad
   - 🚫 _     Privacidad
