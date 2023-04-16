@@ -1,7 +1,11 @@
 # NovusData
 
 Referente local: NovusMetodo
+
 Referente comercial: https://www.collibra.com/us/en/products/data-governance
+
+Referente libros:
+https://pages.dataiku.com/ai-governance-capgemini
 
 Automate Data Profiling and Exploratory Analysis:
 https://medium.com/codex/create-a-data-profiling-app-using-pandas-profiling-and-streamlit-59300bc50af7
