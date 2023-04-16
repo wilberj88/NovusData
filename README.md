@@ -90,3 +90,6 @@ AWS: https://open.spotify.com/episode/70cmr9NTx045AQuZieT6ud?si=u3Kh3ETjQj-KiaZH
 BASES DE DATOS ESPECIALES:
 AWS: 
 https://open.spotify.com/episode/5ZtRYpu5FAx2wRiq6BxdOd?si=ezNp9eBZSfGMUA5SdN5mhQ&context=spotify%3Ashow%3A137kWOBdiS8lA97kzYJbKH
+
+GOBIERNO DE DATOS:
+AWS podcast: https://open.spotify.com/episode/0ctAb21xBRQ7ibj6yJDl0g?si=30_BeGycQkqmk-Ek38nZcA&context=spotify%3Ashow%3A137kWOBdiS8lA97kzYJbKH
