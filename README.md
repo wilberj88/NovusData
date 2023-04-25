@@ -93,3 +93,10 @@ https://open.spotify.com/episode/5ZtRYpu5FAx2wRiq6BxdOd?si=ezNp9eBZSfGMUA5SdN5mh
 
 GOBIERNO DE DATOS:
 AWS podcast: https://open.spotify.com/episode/0ctAb21xBRQ7ibj6yJDl0g?si=30_BeGycQkqmk-Ek38nZcA&context=spotify%3Ashow%3A137kWOBdiS8lA97kzYJbKH
+
+
+
+SERVICIOS:
+1) MANDOS POR MÓDULOS 
+2) ATENTOS AUDITOR
+3) PRUEBAS DE CUMPLIMENTO (SEGURIDAD, CONFIABILIDAD, ÉTICA)
