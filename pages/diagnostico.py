@@ -11,7 +11,7 @@ from streamlit_echarts import st_pyecharts
 st.set_page_config(layout="wide", page_title="Novus Data", page_icon="⚛️")
 
 st.title('Novus Data ⚛️')
-st.header("Diagnóstico de Governanza de Datos al instante ⚡")
+st.header("Diagnóstico de Gobernanza de Datos al instante ⚡")
 
 diccionario = st.selectbox("¿Tienes diccionario de datos?",
         ("No", "Sí", "En construcción", "Pendiente", "No sabe"),
@@ -87,10 +87,10 @@ if st.button('Calcular diagnóstico gratuito'):
         render_basic_radar()
         
 
-        st.title('Hoja de Ruta de Implementación y Mejora de la Governanza de Datos 📆')
+        st.title('Hoja de Ruta de Implementación y Mejora de la Gobernanza de Datos 📆')
         st.markdown(
           """
-          Componentes de la Estrategia de Governanza de Datos:
+          Componentes de la Estrategia de Gobernanza de Datos:
           - 📝 _    Titularidad de cada dato en cada etapa
           - 📝 _    Ciclo de Vida de todos los datos
           - 📆 _    Arquitectura de los sistemas de datos
