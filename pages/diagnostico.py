@@ -22,16 +22,25 @@ metadatos = st.selectbox("¿Tienes metadatos?",
         ("No", "Sí", "En construcción", "Pendiente", "No sabe"),
     )
 
-ciclo_vida = st.selectbox("¿Tienes modelado el ciclo de vida de los datos?",
+ciclo_vida = st.selectbox("¿Tienes modelado el ciclo de vida de todos los datos?",
         ("No", "Sí", "En construcción", "Pendiente", "No sabe"),
     )
 
-privacidad = st.selectbox("¿Tienes política de privacidad?",
+privacidad = st.selectbox("¿Tienes política de privacidad de todos los datos?",
         ("No", "Sí", "En construcción", "Pendiente", "No sabe"),
     )
 
-categoria = st.radio(
-        "Indica la categoría más avanzada👇 ",
+seguridad = st.selectbox("¿Tienes política de seguridad de todos los datos?",
+        ("No", "Sí", "En construcción", "Pendiente", "No sabe"),
+    )
+
+avanzada = st.radio(
+        "Indica la categoría más avanzada ⬆",
+        options=['Política', 'Proceso','Estándares'],
+    )
+
+retrasada = st.radio(
+        "Indica la categoría más retrasada ⬇",
         options=['Política', 'Proceso','Estándares'],
     )
 
