@@ -88,6 +88,26 @@ if st.button('Calcular diagnóstico gratuito'):
         
 
         st.title('Hoja de Ruta de Implementación y Mejora de la Governanza de Datos 📆')
+        st.markdown(
+          """
+          Componentes de la Estrategia de Governanza de Datos:
+          - 📝 _    Titularidad de cada dato en cada etapa
+          - 📝 _    Ciclo de Vida de todos los datos
+          - 📆 _    Arquitectura de los sistemas de datos
+          - 📍 _    Operación de los Datos
+          - 📍 _    Seguridad de los Datos
+          - 📍 _    Privacidad de los Datos
+          - 📍 _    Conciliación de Pleitos en los Datos
+          - 📍 _    Referentes de los Datos
+          - 📍 _    Lago de los Datos
+          - 📍 _    Elementos Críticos de los Datos
+          - 📍 _    Calidad de los Datos
+          - 📍 _    Integración de los Datos
+
+          ANALIZA TU CALENDARIO AHORA: Políticas + Estándares + Procesos 🕰
+          """
+        )
+        st.write('')
         def render_heatmap_cartesian():
             hours = [
                 "12a",
