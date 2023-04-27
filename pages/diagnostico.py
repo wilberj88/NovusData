@@ -34,35 +34,42 @@ categoria = st.radio(
 
 if st.button('Calcular diagnóstico gratuito'):
         def render_basic_radar():
-                option = {
-                        "title": {"text": "Transición energética"},
-                        "legend": {"data": ["Consumo Actual", "Consumo Óptimo"]},
-                        "radar": {
-                            "indicator": [
-                                {"name": "Agua", "max": 6500},
-                                {"name": "Carbón", "max": 16000},
-                                {"name": "Viento", "max": 30000},
-                                {"name": "Sol", "max": 38000},
-                                {"name": "Petróleo", "max": 52000},
-                                {"name": "Gas", "max": 25000},
-                            ]
-                        },
-                        "series": [
+            option = {
+                "title": {"text": "Comparaciones"},
+                "legend": {"data": ["Candidato A", "Candidato B"]},
+                "radar": {
+                    "indicator": [
+                        {"name": "Líderes", "max": 6500},
+                        {"name": "Financiación", "max": 16000},
+                        {"name": "Sentimiento", "max": 30000},
+                        {"name": "Votación Anterior", "max": 38000},
+                        {"name": "Interaciones", "max": 52000},
+                        {"name": "Recordación de Marca", "max": 25000},
+                    ]
+                },
+                "series": [
+                    {
+                        "name": "Aprendizaje Actual Vs Proyectado",
+                        "type": "radar",
+                        "data": [
                             {
-                                "name": "Consumo Actual Vs Óptimo",
-                                "type": "radar",
-                                "data": [
-                                    {
-                                        "value": [2000, 10000, 20000, 3500, 15000, 11800],
-                                        "name": "Consumo Actual",
-                                    },
-                                    {
-                                        "value": [3500, 15000, 25000, 10800, 22000, 20000],
-                                        "name": "Consumo Óptimo",
-                                    },
-                                ],
-                            }
+                                "value": [2000, 10000, 20000, 3500, 15000, 11800],
+                                "name": "Candidato A",
+                            },
+                            {
+                                "value": [3500, 15000, 25000, 10800, 22000, 20000],
+                                "name": "Candidato B",
+                            },
                         ],
                     }
-                st_echarts(option, height="500px")
-            render_basic_radar()
+                ],
+            }
+            st_echarts(option, height="500px")
+
+        ST_RADAR_DEMOS = {
+            "Radar: Basic Radar": (
+                render_basic_radar,
+                "https://echarts.apache.org/examples/en/editor.html?c=radar",
+            ),
+        }
+        render_basic_radar()
