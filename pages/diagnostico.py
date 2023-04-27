@@ -1,7 +1,10 @@
 import streamlit as st
+from streamlit_echarts import st_echarts
 import pandas as pd
 import numpy as np
-import pydeck as pdk
+from pyecharts import options as opts
+from pyecharts.charts import Bar
+from streamlit_echarts import st_pyecharts
 
 
 # SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
