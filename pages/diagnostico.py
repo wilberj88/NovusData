@@ -353,3 +353,14 @@ if st.button('Calcular diagnóstico gratuito'):
         }
 
         render_heatmap_cartesian()
+        
+        st.markdown(
+          """
+          Al finalizar la Hoja de Ruta de Gobernanza de Datos tendrás:
+          - 📝 _    Certificación ISO Seguridad de los Datos
+          - 📝 _    Certificación ISO Privacidad de los Datos
+          - 📆 _    Certificación ISO Ética de los Datos
+
+          EMPIEZA AHORA 🕰
+          """
+        )
