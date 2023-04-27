@@ -35,30 +35,30 @@ categoria = st.radio(
 if st.button('Calcular diagnóstico gratuito'):
         def render_basic_radar():
             option = {
-                "title": {"text": "Comparaciones"},
-                "legend": {"data": ["Candidato A", "Candidato B"]},
+                "title": {"text": "Diagnóstico actual con meta anual"},
+                "legend": {"data": ["Actual", "Meta año 1"]},
                 "radar": {
                     "indicator": [
-                        {"name": "Líderes", "max": 6500},
-                        {"name": "Financiación", "max": 16000},
-                        {"name": "Sentimiento", "max": 30000},
-                        {"name": "Votación Anterior", "max": 38000},
-                        {"name": "Interaciones", "max": 52000},
-                        {"name": "Recordación de Marca", "max": 25000},
+                        {"name": "Diccionario", "max": 6500},
+                        {"name": "Metadatos", "max": 16000},
+                        {"name": "Políticas", "max": 30000},
+                        {"name": "Estándares", "max": 38000},
+                        {"name": "Procesos", "max": 52000},
+                        {"name": "RoadMalGeneral", "max": 25000},
                     ]
                 },
                 "series": [
                     {
-                        "name": "Aprendizaje Actual Vs Proyectado",
+                        "name": "Reporte",
                         "type": "radar",
                         "data": [
                             {
                                 "value": [2000, 10000, 20000, 3500, 15000, 11800],
-                                "name": "Candidato A",
+                                "name": "Actual",
                             },
                             {
                                 "value": [3500, 15000, 25000, 10800, 22000, 20000],
-                                "name": "Candidato B",
+                                "name": "Meta año 1",
                             },
                         ],
                     }
