@@ -38,7 +38,7 @@ categoria = st.radio(
 if st.button('Calcular diagnóstico gratuito'):
         def render_basic_radar():
             option = {
-                "title": {"text": "Diagnóstico actual con meta anual"},
+                "title": {"text": "Diagnóstico"},
                 "legend": {"data": ["Actual", "Meta año 1"]},
                 "radar": {
                     "indicator": [
