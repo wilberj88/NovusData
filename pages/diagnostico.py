@@ -36,12 +36,12 @@ seguridad = st.selectbox("¿Tienes política de seguridad de todos los datos?",
 
 avanzada = st.radio(
         "Indica la categoría más avanzada ⬆",
-        options=['Política', 'Proceso','Estándares'],
+        options=['Políticas', 'Procesos','Estándares'],
     )
 
 retrasada = st.radio(
         "Indica la categoría más retrasada ⬇",
-        options=['Política', 'Proceso','Estándares'],
+        options=['Políticas', 'Procesos','Estándares'],
     )
 
 if st.button('Calcular diagnóstico gratuito'):
