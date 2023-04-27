@@ -1,6 +1,15 @@
 import streamlit as st
+import pandas as pd
+import numpy as np
+import pydeck as pdk
 
-st.title('Diagnóstico de Governanza de Datos')
+
+# SETTING PAGE CONFIG TO WIDE MODE AND ADDING A TITLE AND FAVICON
+st.set_page_config(layout="wide", page_title="Novus Data", page_icon="⚛️")
+
+st.title('Novus Data ⚛️')
+st.header("Diagnóstico de Governanza de Datos al instante ⚡")
+
 
 def render_basic_radar():
         option = {
