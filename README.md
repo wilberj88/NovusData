@@ -102,9 +102,16 @@ SERVICIOS:
 3) PRUEBAS DE CUMPLIMENTO (SEGURIDAD, CONFIABILIDAD, ÉTICA)
 
 
-DATA SOURCES:
+ML DATA SOURCES:
 1) Kaggle
 2) Huggingface
-3) World Bank
-4) Api Google
-5) Api Open Weather
+
+ÉTICA DE LOS DATOS: https://platzi.com/clases/6935-ai/60709-etica-en-inteligencia-artificial-contexto-y-defini/
+1) ¿Quién recolecta la información? módulo titularidad
+2) ¿Por qué se recolecta esta información?
+3) ¿Cómo?
+4) ¿Cuál es el propósito?
+Reporte Novus Datos sobre ética: 
+DATOS: Protección + Privacidad + Confianza + Transparencia + Empoderar Usuarios + Ofrecer bien público anonimizado
+ALGORITMOS: Responsabilidad + Diseño Ético + Validación Ética
+APSS-MODELOS: Código deontológico + Consentimiento + Privacidad
