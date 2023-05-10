@@ -96,6 +96,8 @@ https://open.spotify.com/episode/5ZtRYpu5FAx2wRiq6BxdOd?si=ezNp9eBZSfGMUA5SdN5mh
 
 GOBIERNO DE DATOS:
 AWS podcast: https://open.spotify.com/episode/0ctAb21xBRQ7ibj6yJDl0g?si=30_BeGycQkqmk-Ek38nZcA&context=spotify%3Ashow%3A137kWOBdiS8lA97kzYJbKH
+AWS podcast on Data Zone: 
+https://open.spotify.com/episode/7w67seUBwYPYvLuyH0LJHG?si=jfJ6tioNSG645JxhhMF1Cg&context=spotify%3Ashow%3A137kWOBdiS8lA97kzYJbKH
 
 
 
