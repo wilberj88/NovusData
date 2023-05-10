@@ -20,6 +20,9 @@ Charts - eChart: 1) Watterfall, 2) Dougnut chart, 3) Rose Diagram, 4) Radar, 5) 
 JavaScript Visualizaciones:
 www.amcharts.com
 
+Introducing st.experimental_connection!
+https://blog.streamlit.io/introducing-st-experimental_connection/
+
 Data Animation
 https://medium.com/@CalebMBowyer/animations-in-python-3f32128e1d8c
 
