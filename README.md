@@ -102,6 +102,8 @@ AWS podcast on Data Zone:
 https://open.spotify.com/episode/7w67seUBwYPYvLuyH0LJHG?si=jfJ6tioNSG645JxhhMF1Cg&context=spotify%3Ashow%3A137kWOBdiS8lA97kzYJbKH
 aws podcast: Plan de respuesta de Incidentes para módulo de conciliaciones
 iso 27035: guia de respuesta de incidentes de ciberseguridad
+Data Quality:
+https://towardsdatascience.com/which-team-should-own-data-quality-44f1d6996eb8
 
 SERVICIOS:
 1) MANDOS POR MÓDULOS 
