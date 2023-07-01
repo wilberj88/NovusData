@@ -104,6 +104,8 @@ aws podcast: Plan de respuesta de Incidentes para módulo de conciliaciones
 iso 27035: guia de respuesta de incidentes de ciberseguridad
 Data Quality:
 https://towardsdatascience.com/which-team-should-own-data-quality-44f1d6996eb8
+Data Documentation: https://towardsdatascience.com/data-documentation-101-why-how-for-whom-927311354a92
+
 
 SERVICIOS:
 1) MANDOS POR MÓDULOS 
