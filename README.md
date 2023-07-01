@@ -25,6 +25,7 @@ https://blog.streamlit.io/introducing-st-experimental_connection/
 
 Data Animation
 https://medium.com/@CalebMBowyer/animations-in-python-3f32128e1d8c
+https://towardsdatascience.com/but-what-is-lda-explained-using-mathematical-animation-like-3blue1brown-4e8825334d84
 
 Data Formats:
 https://towardsdatascience.com/top-5-ridiculously-better-csv-alternatives-595f70a9c936
