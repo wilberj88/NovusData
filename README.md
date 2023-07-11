@@ -92,7 +92,8 @@ Create visualisations in seconds
 Optimise codes for speed and memory
 Communicate with non-technical folks
 
-SECURITY:
+CYBERSECURITY:
+https://augmentedstartups.medium.com/ais-role-in-cybersecurity-how-ai-makes-protection-way-cooler-be9a30d81a38
 AWS: https://open.spotify.com/episode/70cmr9NTx045AQuZieT6ud?si=u3Kh3ETjQj-KiaZHlvcBxA
 
 BASES DE DATOS ESPECIALES:
