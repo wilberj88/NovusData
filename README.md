@@ -59,6 +59,7 @@ https://link.medium.com/fEkUbCgWGwb
 https://medium.datadriveninvestor.com/mastering-chatgpt-in-python-a53814e834b0
 
 Visualizations
+https://medium.datadriveninvestor.com/forget-scatter-plots-use-these-classy-alternatives-e558dfde7434
 With ChatGPT3:
 https://medium.datadriveninvestor.com/chatgpt-helps-you-to-create-graphs-with-python-in-5-steps-55418100d5c1
 https://echarts.streamlit.app/
