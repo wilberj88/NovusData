@@ -99,6 +99,8 @@ Communicate with non-technical folks
 CYBERSECURITY:
 https://augmentedstartups.medium.com/ais-role-in-cybersecurity-how-ai-makes-protection-way-cooler-be9a30d81a38
 AWS: https://open.spotify.com/episode/70cmr9NTx045AQuZieT6ud?si=u3Kh3ETjQj-KiaZHlvcBxA
+API Security:
+https://blog.streamlit.io/8-tips-for-securely-using-api-keys/
 
 BASES DE DATOS ESPECIALES:
 AWS: 
