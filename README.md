@@ -27,6 +27,7 @@ Introducing st.experimental_connection!
 https://blog.streamlit.io/introducing-st-experimental_connection/
 
 Data Animation
+https://blog.streamlit.io/create-an-animated-data-story-with-ipyvizzu-and-streamlit/
 https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1
 https://medium.com/@CalebMBowyer/animations-in-python-3f32128e1d8c
 https://towardsdatascience.com/but-what-is-lda-explained-using-mathematical-animation-like-3blue1brown-4e8825334d84
