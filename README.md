@@ -22,6 +22,9 @@ https://pub.towardsai.net/10-advanced-matplotlib-concepts-you-must-know-to-creat
 d3.JS Visualizations:
 https://towardsdatascience.com/d3blocks-the-python-library-to-create-interactive-and-standalone-d3js-charts-3dda98ce97d4
 
+Texture Arrays for Animations:
+https://betterprogramming.pub/how-to-use-texture-arrays-in-webgl-921dff1c22d8
+
 ETL Framework:
 https://pravash-techie.medium.com/python-streamline-your-data-processing-with-bonobo-f329d58073d1
 
