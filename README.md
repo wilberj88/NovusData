@@ -124,6 +124,8 @@ Data Quality:
 https://towardsdatascience.com/which-team-should-own-data-quality-44f1d6996eb8
 Data Documentation: https://towardsdatascience.com/data-documentation-101-why-how-for-whom-927311354a92
 
+Vector DB:
+https://levelup.gitconnected.com/vector-database-the-secret-behind-large-language-models-capabilities-7d4f6b714d16
 
 SERVICIOS:
 1) MANDOS POR MÓDULOS 
