@@ -65,9 +65,10 @@ Real time Data:
 Scraping: https://medium.com/codex/realtime-data-scraping-with-python-517bf5a5eb84
 Prisma Library: https://pub.towardsai.net/build-real-time-data-applications-quickly-using-streamlit-and-prisma-ef6e6af81e30
 
-Sinthetic Data
+Sinthetic Data - Vectorization
 https://link.medium.com/fEkUbCgWGwb
 https://medium.datadriveninvestor.com/mastering-chatgpt-in-python-a53814e834b0
+https://www.kaggle.com/code/youssef19/stop-looping-through-pandas-dataframes/notebook
 
 Visualizations
 https://medium.datadriveninvestor.com/forget-scatter-plots-use-these-classy-alternatives-e558dfde7434
