@@ -84,7 +84,7 @@ Plotly Express: https://medium.com/@malvik01/create-animated-plots-in-python-wit
 Sunburst chart: https://medium.com/plotly/plotly-dash-500-d78f27e91530
 RaceChart: https://medium.com/analytics-vidhya/how-to-make-a-bar-chart-race-with-python-in-2-minutes-c9ee617c8d75
 https://medium.com/@rkuma18/data-visualization-and-its-wonders-69ee0edf8e71
-
+CyberPunk Visualization: https://medium.com/@HeCanThink/cyberpunked-python-creating-cyberpunk-style-visualizations-in-python-1b574690e68
 
 Extract Data from PDF
 https://carolinamendozab.medium.com/nice-and-easy-way-to-extract-data-from-pdf-files-with-python-d71b58f43d04
