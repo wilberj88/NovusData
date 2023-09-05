@@ -4,6 +4,9 @@ Referente local: NovusMetodo
 
 Referente comercial: https://www.collibra.com/us/en/products/data-governance
 
+Storage in Streamlit:
+https://towardsdatascience.com/streamlit-and-mongodb-storing-your-data-in-the-cloud-c28663313ade
+
 Referente libros:
 https://pages.dataiku.com/ai-governance-capgemini
 
