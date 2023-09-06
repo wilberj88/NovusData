@@ -17,6 +17,9 @@ Data Workflow: Data Pipeline Management - ETL Workflows - Machine Learning Workf
 https://moez-62905.medium.com/introduction-to-apache-airflow-9b194e050507
 https://levelup.gitconnected.com/these-7-low-code-python-libraries-keep-your-focus-100-on-data-science-196b59a053ad
 
+Ranking Visualization:
+https://towardsdatascience.com/how-to-create-eye-cathing-country-rankings-using-python-and-matplotlib-d57e4594fe13
+
 Streamlit Visualizaciones:
 https://plotly.streamlit.app/~/+/
 Charts - eChart: 1) Watterfall, 2) Dougnut chart, 3) Rose Diagram, 4) Radar, 5) Heatmap, 6) Tree left to right, 7) Treemap, 8)Parallel Aqui, 9) Sankey, 10) Dataset, 11) Legend Event, 12) Sunburst
