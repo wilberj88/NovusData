@@ -10,6 +10,9 @@ https://towardsdatascience.com/streamlit-and-mongodb-storing-your-data-in-the-cl
 Referente libros:
 https://pages.dataiku.com/ai-governance-capgemini
 
+Integración de datos en tiempo real:
+https://www.qlik.com/es-es/
+
 Automate Data Profiling and Exploratory Analysis:
 https://medium.com/codex/create-a-data-profiling-app-using-pandas-profiling-and-streamlit-59300bc50af7
 
