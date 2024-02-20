@@ -12,6 +12,7 @@ https://pages.dataiku.com/ai-governance-capgemini
 
 Integración de datos en tiempo real:
 https://www.qlik.com/es-es/
+Lyft: https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a
 
 Automate Data Profiling and Exploratory Analysis:
 https://medium.com/codex/create-a-data-profiling-app-using-pandas-profiling-and-streamlit-59300bc50af7
